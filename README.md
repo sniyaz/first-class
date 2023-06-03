@@ -8,7 +8,8 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# CSCI 14X, Fall 2023
+## Introductory Programming
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
