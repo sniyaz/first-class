@@ -1,7 +1,7 @@
 ---
-name: Kevin Lin
+name: Sherdil Niyaz
 role: Instructor
-email: me@example.com
+email: TODO
 website: https://kevinl.info
 photo: kevin.jpg
 ---
