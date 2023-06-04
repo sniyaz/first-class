@@ -10,7 +10,9 @@ seo:
 
 # CSCI 14X, Fall 2023
 
-Welcome to CSCI 14X at Mt. SAC! This course page is intended as a "home page" for our course where you can find all of the resources we will use this term. If you have any questions, feel free to reach out to Sherdil directly :)
+Welcome to CSCI 14X at Mt. SAC! This course page is intended as a "home page" for our course where you can find all of the resources we will use this term.
+
+If you have any questions, feel free to reach out to Sherdil directly :)
 
 ## Getting Started
 
