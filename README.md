@@ -14,6 +14,13 @@ Welcome to CSCI 14X at Mt. SAC! This course page is intended as a "home page" fo
 
 If you have any questions, feel free to reach out to Sherdil directly :)
 
+## Calendar
+
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
+
+
 ## Getting Started
 
 Getting started with Just the Class is simple.
