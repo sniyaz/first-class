@@ -1,16 +1,16 @@
 ---
 layout: home
-title: CSCI 14X
+title: CSCI 145
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: CSCI 14X
+  name: CSCI 145
 ---
 
-# CSCI 14X, Fall 2023
+# CSCI 145, Fall 2023
 
-Welcome to CSCI 14X at Mt. SAC! This course page is intended as a "home page" for our course where you can find all of the resources we will use this term.
+Welcome to CSCI 145 at Mt. SAC! This course page is intended as a "home page" for our course where you can find all of the resources we will use this term.
 
 If you have any questions, feel free to reach out to Sherdil directly :)
 
